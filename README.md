@@ -5,6 +5,8 @@
 
 Data::Validate::Sanctions - Validate a name against sanctions lists
 
+
+
 # SYNOPSIS
 
     # as exported function
